@@ -1,2 +1,2 @@
 # proyecto-integrado
-Carpeta de proyecto integrado
+Carpeta del proyecto integrado para DAW2
